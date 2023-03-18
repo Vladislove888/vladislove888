@@ -3,8 +3,7 @@
 ### Connect with me:
 <a href="https://t.me/vladislove888">
       <img src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" width="35" height="35" alt=Telegram /> 
-
-<a href="vladisfil8@gmail.com">
+<a href="[vladisfil8@gmail.com](http://vladisfil8@gmail.com/)">
       <img src="https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white" width="80" height="35" alt=Telegram />      
 
 
