@@ -1,4 +1,9 @@
 ## A Novice Product Analyst :hatching_chick:
+I'm a novice analyst. I really want to develop in this area and would be happy to use analytics tools to influence the quality of products, the company's performance and its profit. I am currently taking a course from Yandex.Workshop "Data Analyst".
+
+I have experience in investment banking. I have been trading on the stock market for more than two years, I am familiar with the fundamental and technical analysis of companies. 
+
+I think laziness is the engine of progress: instead of forty minutes of work on a task, I'd rather spend half an hour researching how to solve this problem in 10 minutes in the future :blush:
 
 ### Connect with me:
 <a href="https://t.me/vladislove888">
