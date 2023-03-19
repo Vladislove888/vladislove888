@@ -1,5 +1,5 @@
-## A Novice Product Analyst :hatching_chick:
-I'm a novice analyst. I really want to develop in this area and would be happy to use analytics tools to influence the quality of products, the company's performance and its profit. I am currently taking a course from Yandex.Workshop "Data Analyst".
+## Hello! My name is Vladislav and I'm a novice Product Analyst :hatching_chick:
+I really want to develop in this area and would be happy to use analytics tools to influence the quality of products, the company's performance and its profit. I am currently taking a course from Yandex.Workshop "Data Analyst".
 
 I have experience in investment banking. I have been trading on the stock market for more than two years, I am familiar with the fundamental and technical analysis of companies. 
 
