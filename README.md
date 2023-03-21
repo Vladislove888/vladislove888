@@ -9,7 +9,7 @@ I think laziness is the engine of progress: instead of forty minutes of work on 
 <a href="https://t.me/vladislove888">
       <img src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" width="35" height="35" alt=Telegram /> 
 <a href="http://vladisfil8@gmail.com/">
-      <img src="https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white" width="80" height="35" alt=Telegram />      
+      <img src="https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white" width="80" height="35" alt=gmail />      
 
 
 ### Languages and Tools:
