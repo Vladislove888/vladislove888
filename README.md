@@ -3,7 +3,7 @@ I really want to develop in this area and would be happy to use analytics tools 
 
 I have experience in investment banking. I have been trading on the stock market for more than two years, I am familiar with the fundamental and technical analysis of companies. 
 
-Instead of forty minutes of work on a task, I'd rather spend half an hour researching how to solve this problem in 10 minutes in the future :blush:
+Instead of forty minutes of work on a task, I'd rather spend half an hour researching how to solve it in 10 minutes in the future :blush:
 
 ### Connect with me:
 <a href="https://t.me/vladislove888">
