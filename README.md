@@ -17,4 +17,4 @@ Instead of forty minutes of work on a task, I'd rather spend half an hour resear
 <img align="left" alt="HTML5" width="50px" img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />
 <img align="left" alt="SQL" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
 <img align="left" alt="SQL" width="50px"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" />
-    
+<img align="left" alt="Tableau" width="50px"src="https://uploads-ssl.webflow.com/60eecfcc030e0e12979ffefc/613a2ef0cf2bdbdbab128be2_Frame%20203%406x.png" />    
