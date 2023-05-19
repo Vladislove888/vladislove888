@@ -7,7 +7,7 @@ Instead of forty minutes of work on a task, I'd rather spend half an hour resear
 
 ### Connect with me:
 <a href="https://t.me/vladislove888">
-      <img src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" width="25" height="25" alt=Telegram /> 
+      <img src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" width="30" height="30" alt=Telegram /> 
       
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:vlaisfil8@gmail.com)      
 
