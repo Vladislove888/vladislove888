@@ -1,9 +1,9 @@
 ## Hello! My name is Vladislav and I'm a novice Data Analyst :hatching_chick:
-I really want to develop in this area and would be happy to use analytics tools to influence the quality of products, the company's performance and its profit. I have completed a course "Data Analyst" from Yandex.Practicum.
+I want to develop in this area and would be happy to use analytics tools to influence the quality of products, the company's performance and its profit. I have completed a course "Data Analyst" from Yandex.Practicum.
 
-I have experience in investment banking. I have been trading on the stock market for more than two years, I am familiar with the fundamental and technical analysis of companies. 
+I also have experience in investment banking. I have been trading on the stock market for more than two years, I am familiar with the fundamental and technical analysis of companies. 
 
-Instead of forty minutes of work on a task, I'd rather spend half an hour researching how to solve it in 10 minutes in the future :blush:
+I try to optimize processes in the workplace. It is better, instead of forty minutes of work on the task, I will spend half an hour researching the solution method in order to complete it in 10 minutes in the future: working in the BCS, I found a way to submit depository orders 3 times faster.
 
 ### Connect with me:
 <a href="https://t.me/vladislove888">
