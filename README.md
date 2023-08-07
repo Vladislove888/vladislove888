@@ -1,18 +1,18 @@
-## Hello! My name is Vladislav and I'm a novice Data Analyst :hatching_chick:
-I want to develop in this area and would be happy to use analytics tools to influence the quality of products, the company's performance and its profit. I have completed a course "Data Analyst" from Yandex.Practicum.
+## Привет! Меня зовут Владислав и я начинающий аналитик:hatching_chick:
+Прошёл курс Яндекс.Практикум "Аналитик данных". Хочу и дальше развиваться в этой сфере, потому что это очень интересное направление. Аналитика позволяет бизнесу определять свои сильные и слабые стороны, а также выявлять возможности для роста и развития. 
 
-I also have experience in investment banking. I have been trading on the stock market for more than two years, I am familiar with the fundamental and technical analysis of companies. 
+Также я торгую на фондовом рынке с 18 лет и имею опыт работы в инвестиционно-банковской сфере, знаком с фундаментальным и техническим анализом компаний. В свободное время изучаю тему финансов и бизнеса. 
 
-I try to optimize processes in the workplace. It is better, instead of forty minutes of work on the task, I will spend half an hour researching the solution method in order to complete it in 10 minutes in the future: working in the BCS, I found a way to submit depository orders 3 times faster.
+На рабочем месте стараюсь оптимизировать процессы. Например, работая в БКС, нашёл способ обрабатывать депозитарные поручения в 3 раза быстрее.
 
-### Connect with me:
+### Связаться со мной:
 <a href="https://t.me/vladislove888">
       <img src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" width="30" height="30" alt=Telegram /> 
       
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:vlaisfil8@gmail.com)      
 
 
-### Languages and Tools:
+### Инструменты:
 <img align="left" alt="Python" width="50px" img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
 <img align="left" alt="Pandas" width="50px" img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/pandas/pandas-original.svg" />
 <img align="left" alt="Pandas" width="60px" img src="https://everipedia-storage.s3.amazonaws.com/ProfilePicture/en/Plotly__a0a015/Plotly-logo-01-square.png__95275.png" /> 
